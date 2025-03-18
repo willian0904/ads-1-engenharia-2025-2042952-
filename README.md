@@ -16,7 +16,7 @@ O Modelo Espiral é o monumento de ser iterativo, ela é uma combinação do mod
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
-  **METODOLOGIA**: Foi desenvolvido como uma ferramenta de gestão para o desenvolvimento de softwares ágeis, com o principal foco na opinião do cliente.
+**METODOLOGIA**: Foi desenvolvido como uma ferramenta de gestão para o desenvolvimento de softwares ágeis, com o principal foco na opinião do cliente.
   
   
 **VALORES**
@@ -73,9 +73,15 @@ As equipes devem sempre refletir sobre o que está funcionando bem e o que pode 
 As equipes ágeis devem ser autônomas e capazes de se organizar de maneira eficiente, tomando decisões sobre como trabalhar melhor sem depender de micromanagement.
 
 ## 🏆 Scrum  
-  - **Metologia:** Gestão de projetos que ajuda equipes a se organizar e trabalhar em conjunto para atingir um objetivo. 
-### 📅 Sprints  
-(O que são sprints e como funcionam no Scrum?)
+**METODOLOGIA:**
+Scrum é uma estrutura de trabalho que serve para facilitar o desenvolvimento de software por ser uma forma ágil usado para gerenciar projeto complexos, permitindo a entrega contínua de valor por meio de um processo iterativo e incremental.
+ 
+ ### 📅 Sprints 
+**METODOLOGIA:**
+**Sprint** é um ciclo de trabalho fixo e repetitivo dentro do framework **Scrum** dentro de entregar resultados de forma incremental, mantendo o foco e agilidade no processo.
+
+- **Como funciona Sprint no Scrum:**
+A Sprint no Scrum é uma iteração fixa (geralmente de 1 a 4 semanas) onde a equipe trabalha para entregar um incremento funcional de produto. Durante a Sprint, há planejamento, execução diária, revisão do progresso e retrospectiva para melhorias contínuas.
 
 ### 💬 Cerimônias  
 (Descreva as principais cerimônias do Scrum.)
