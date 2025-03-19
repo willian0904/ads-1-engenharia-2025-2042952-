@@ -201,10 +201,20 @@ A Sprint no Scrum é uma iteração fixa (geralmente de 1 a 4 semanas) onde a eq
 
 - **Integrações e Conectividade:** Jira se integra com outras ferramentas, como o **Confluence** para documentação e o **Bitbucket** para repositórios de código, facilitando a colaboração e o acompanhamento do progresso de desenvolvimento em diferentes plataformas.
 
+### 🎮 Trello
 
+- **Trello:** É um sistema visual de quadros, listas e cartões para organizar tarefas e fluxos de trabalho. É utilizada para gerenciar projetos de qualquer tamanho, com foco na colaboração em equipe e no acompanhamento de tarefas.
 
+**Organização e Acompanhamento de tarefas**
 
+- **Quadros, Listas e Cartões:** O Trello organiza o trabalho em quadros (para projetos), listas (para etapas ou categorias) e cartões (para tarefas individuais). Isso permite que as equipes visualizem facilmente o status de cada tarefa e o progresso geral do projeto.
 
+- **Arraste e Solte:** As tarefas podem ser movidas entre as listas, proporcionando uma visão clara do andamento das atividades.
 
-/ Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+- **Atribuição e Colaboração:** Os cartões podem ser atribuídos a membros específicos da equipe, com a possibilidade de adicionar descrições, datas de vencimento, checklists, anexos e comentários, facilitando a comunicação e a colaboração.
+
+- **Etiquetas e Prioridades:** Cartões podem ser marcados com etiquetas coloridas para indicar categorias, prioridades ou status, tornando o acompanhamento visualmente mais fácil.
+
+- **Automação (Butler):** O Trello oferece automações que permitem mover cartões, enviar lembretes ou atualizar status automaticamente, economizando tempo e mantendo o fluxo de trabalho organizado.
+
+- **Notificações:** O Trello envia notificações sobre mudanças nos cartões e prazos, garantindo que todos os membros da equipe estejam atualizados.
