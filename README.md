@@ -84,6 +84,34 @@ Scrum é uma estrutura de trabalho que serve para facilitar o desenvolvimento de
 A Sprint no Scrum é uma iteração fixa (geralmente de 1 a 4 semanas) onde a equipe trabalha para entregar um incremento funcional de produto. Durante a Sprint, há planejamento, execução diária, revisão do progresso e retrospectiva para melhorias contínuas.
 
 ### 💬 Cerimônias  
+**METODOLOGIA:** As cerimonias do Scrum são eventos formais que ocorrem ao longo de uma Sprint e ajudam a organizar e estruturar o trabalho da equipe.
+
+**Sprint Planning (Planejamento da Sprint)**
+- **Objetivo:** Definir o que será feito na Sprint e como será feito. A equipe seleciona itens do **Product Backlog** e define o **Sprint Backlog.**
+-  **Tempo:** No início de cada Sprint.
+
+**Daily Scrum reunião Diária** 
+- **Objetivo:** Realizar um acompanhamento diário do progresso. Cada membro da equipe compartilha o que fez, o que faria e se há algum impedimento.
+- **Tempo:** Diariamente, com duração de 15 minutos.
+
+**Sprint Review (Revisão da Sprint)**
+- **Objetivo:** Apresentar o trabalho concluido na Sprint, obter feedback dos stakeholders e ajustar o **Product Backlog** conforme necessário.
+- **Tempo:** No final de cada Sprint.
+
+**Sprint Retrospective (Retrospectiva da Sprint)**
+- **Objetivo:** Refletir sobre o processo da Sprint, identificar pontos fortes, oportunidades de melhoria e ações para o próximo ciclo.
+- **Tempo:** Após a **Sprint Review** e antes do início da próxima Sprint.  
+
+
+
+
+
+
+
+
+
+
+
 (Descreva as principais cerimônias do Scrum.)
 
 ## 🎯 Kanban  
