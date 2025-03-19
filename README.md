@@ -102,27 +102,109 @@ A Sprint no Scrum é uma iteração fixa (geralmente de 1 a 4 semanas) onde a eq
 - **Objetivo:** Refletir sobre o processo da Sprint, identificar pontos fortes, oportunidades de melhoria e ações para o próximo ciclo.
 - **Tempo:** Após a **Sprint Review** e antes do início da próxima Sprint.  
 
-
-
-
-
-
-
-
-
-
-
-(Descreva as principais cerimônias do Scrum.)
-
 ## 🎯 Kanban  
-(Explique o funcionamento do Kanban e sua aplicação.)
+**METODOLOGIA:** O **Kanban** é uma metodologia visual de gestão de fluxo de trabalho que ajuda as equipes a gerenciar e melhorar o processo de trabalho de forma contínua e eficiente.
+
+**Aonde o Kanban se aplica?**
+
+- **Desenvolvimento de Software:** Organizar tarefas e priorizar sprints, melhorando a colaboração e o fluxo de trabalho da equipe.
+
+- **Gestão de Projetos:** Acompanhar o progresso de várias atividades, desde a concepção até a conclusão, garantindo que as etapas sejam cumpridas de forma eficiente.
+
+- **Atendimento ao Cliente:** Gerenciar solicitações de suporte ou serviços, assegurando que cada caso seja tratado dentro de um prazo adequado.
+
+- **Marketing:** Acompanhar campanhas, conteúdos ou ações de marketing, controlando o estágio de cada tarefa.
+
+- **Produção:** Monitorar a produção e os processos logísticos, equilibrando a carga de trabalho e minimizando desperdícios.
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+**METODOLOGIA:** O Extreme Programming (XP) é conhecida por conta da colaboração intensa entre a equipe de desenvolvimento e o cliente, com foco na entrega contínua de software de alta qualidade.
+
+**PRÁTICAS**
+
+- **Desenvolvimento Iterativo**
+
+- **Testes automatizados**
+
+- **Programação em pares e refatoração constante do código**
+
+- **Reduzir riscos**
+
+- **Aumento de Satisfação**
+
+**Princípios**
+
+- **Comunicação:** A troca constante de informações entre todos os membros da equipe (desenvolvedores, clientes e partes interessadas) é essencial. A comunicação aberta e direta facilita a tomada de decisões rápidas e eficazes.
+
+- **Simplicidade:** O foco deve ser em soluções simples e funcionais, evitando complexidade desnecessária.
+
+- **Feedback:** O feedback constante é crucial, seja por meio de testes automáticos, revisões de código ou interação com o cliente. Isso permite identificar rapidamente problemas ou melhorias do projeto.
+
+- **Coragem:** Os desenvolvedores devem ter coragem para tomar decisões difíceis, como refatorar código ou mudar o design do sistema, sempre visando a melhoria contínua.
+
+- **Respeito:** Todos na equipe devem respeitar uns aos outros, incluindo suas habilidades, opiniões e experiência. A colaboração e o trabalho conjunto são fundamentais para o sucesso do XP.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
-### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+### 💪 GitHub  
 
-### 🎮 Jira / Trello  
+**METODOLOGIA:** O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git para controle de versão e facilita a colaboração em projetos de software. Ele oferece ferramentas como issues, pull requests e branches para gerenciar e revisar código de forma eficiente.
+
+**Gerenciamento de Projetos**
+
+- **Repositórios:** Armazenar código
+
+- **Issues:** Rastrear tarefas
+
+- **Pull requests:** Revisão de código
+
+- **Ramificações branches:** Trabalho isolado
+
+- **Github Actions:** Automação de teste e deploy
+
+### 💪 GitLab
+
+**METODOLOGIA**: O GitLab é uma plataforma de DevOps que integra ferramentas de desenvolvimento, integração contínua (CI), entrega contínua (CD) e gerenciamento de código-fonte. O GitLab oferece funcionalidades como Merge Requests, CI/CD pipelines e monitoramento de desempenho, facilitando a entrega contínua e a colaboração eficiente.
+
+**Gerenciamento de Projetos**
+
+- **Repositórios e Git:** Armazenamento de código-fonte com controle de versões, permitindo a colaboração em tempo real.
+
+- **Issues:** São usadas para gerenciar tarefas, bugs, melhorias e outros tipos de trabalho. Podem ser atribuídas, priorizadas e categorizadas.
+
+- **Boards (Quadros):** GitLab oferece quadros Kanban para organizar issues em colunas como "A Fazer", "Em Progresso" e "Concluído", facilitando o acompanhamento do andamento das tarefas.
+
+- **Merge Requests:** São usadas para revisão de código antes de mesclar as alterações na branch principal. Permitem discussões e feedback entre os desenvolvedores.
+
+- **Milestones:** Permitem agrupar issues e associá-las a marcos específicos do projeto, como versões ou entregas.
+
+- **CI/CD (Integração Contínua/Entrega Contínua):** GitLab automatiza testes e deploys através de pipelines de CI/CD, garantindo que o código seja validado e entregue continuamente.
+
+- **Monitoramento:** Ferramentas de monitoramento de desempenho e métricas do GitLab permitem acompanhar o progresso do projeto em tempo real e fazer ajustes conforme necessário.
+
+### 🎮 Jira 
+
+**METODOLOGIA:** O Jira se baseia em uma abordagem flexível, permitindo personalizar fluxos de trabalho, tarefas e relatórios. O Jira Facilita a colaboração, a transparência e o acompanhamento eficiente do progresso, garantindo entregas contínuas e alinhadas com as necessidades do cliente.
+
+**Organização e Acompanhamento de tarefas**
+
+- **Criação de Tarefas e Issues:** O Jira permite que as equipes criem issues para registrar e gerenciar tarefas, bugs, melhorias ou histórias de usuário, com informações detalhadas como descrições, prioridades, datas de vencimento e responsáveis.
+
+- **Quadros Kanban e Scrum:** O Jira oferece quadros visuais (Kanban ou Scrum) para organizar as tarefas de forma clara.
+
+- **Sprints e Planejamento de Iterações:** No Scrum, o Jira facilita o planejamento e a execução de sprints, permitindo que as equipes dividam o trabalho em ciclos curtos.
+
+- **Epics e Stories:** O Jira organiza grandes funcionalidades (Epics) em tarefas menores e mais gerenciáveis (Stories). Isso permite dividir projetos grandes em etapas menores, tornando o acompanhamento do progresso mais granular.
+
+- **Relatórios e Dashboards:** O Jira oferece relatórios detalhados e dashboards personalizáveis que fornecem informações em tempo real sobre o progresso do projeto.
+
+- **Notificações e Automação:** O Jira envia notificações sobre mudanças nas tarefas e permite configurar automações para tarefas repetitivas, como mover uma tarefa para a próxima coluna quando sua etapa for concluída, garantindo que os membros da equipe estejam sempre atualizados.
+
+- **Integrações e Conectividade:** Jira se integra com outras ferramentas, como o **Confluence** para documentação e o **Bitbucket** para repositórios de código, facilitando a colaboração e o acompanhamento do progresso de desenvolvimento em diferentes plataformas.
+
+
+
+
+
+
+/ Trello  
 (Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
