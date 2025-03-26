@@ -75,6 +75,21 @@ As equipes ágeis devem ser autônomas e capazes de se organizar de maneira efic
 ## 🏆 Scrum  
 **METODOLOGIA:**
 Scrum é uma estrutura de trabalho que serve para facilitar o desenvolvimento de software por ser uma forma ágil usado para gerenciar projeto complexos, permitindo a entrega contínua de valor por meio de um processo iterativo e incremental.
+
+- **Tempo:** O trabalho é dividido em interações curtas chamadas **sprints, que geralmente duram de 1 a 4 semanas.
+
+**PRINCÍPIOS**
+
+- **Transparência:** Todos os desenvolvimentos devem ser visíveis para aqueles que são responsáveis pelo resultado final.
+
+- **Inspeção:** É importante trabalhar frequentemente o progresso em relação aos objetivos. Por conta de detectar problemas precocemente.
+
+- **Adaptação:** Caso haja algum processo que precise de ajuste.
+
+**Scrum Master**
+
+- **Função:** Ajuda a equipe a seguir práticas do scrum, removendo obstáculos que possam surgir durante o trabalho e garantir que a metodologia seja aplicada corretamente.
+ 
  
  ### 📅 Sprints 
 **METODOLOGIA:**
@@ -132,7 +147,7 @@ A Sprint no Scrum é uma iteração fixa (geralmente de 1 a 4 semanas) onde a eq
 
 - **Aumento de Satisfação**
 
-**Princípios**
+**PRINCÍPIOS**
 
 - **Comunicação:** A troca constante de informações entre todos os membros da equipe (desenvolvedores, clientes e partes interessadas) é essencial. A comunicação aberta e direta facilita a tomada de decisões rápidas e eficazes.
 
